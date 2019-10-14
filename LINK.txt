@@ -1,1 +1,4 @@
 https://metanit.com/web/angular2/1.2.php
+
+https://www.javatpoint.com/angular-8-first-app
+
