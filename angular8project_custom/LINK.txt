@@ -1,0 +1,1 @@
+https://www.javatpoint.com/how-an-angular-app-get-loaded-and-started
